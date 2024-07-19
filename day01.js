@@ -23,11 +23,11 @@ console.log(bool); // Output: true
 
 // Task 4: Create variables of different data types and log each variable's type using the `typeof` operator.
 
-let num_let = 100; // number
-let str_let = "30 days of Javascript"; // string
-let bool_let = true; // boolean
-let obj_let = {FP_lang: "Haskell", OOP_lang : "C++"}; // object
-let arr_let = ["C++","Python","Java","Haskell"]; // array
+let num_let = 100; 
+let str_let = "30 days of Javascript";
+let bool_let = true;
+let obj_let = {FP_lang: "Haskell", OOP_lang : "C++"}; 
+let arr_let = ["C++","Python","Java","Haskell"]; 
 
 console.log(typeof num_let); // Output: number
 console.log(typeof str_let); // Output: string
@@ -50,7 +50,7 @@ console.log(reaasignable); // Output:Changed value
 
 const constant = "Constant";
 console.log(constant); // Output: Constant
-// constVar = "New Value"; //throws TypeError: Assignment to constant variable.
+// constant = "New value"; //throws TypeError: Assignment to constant variable.
 
 // Feature Request:
 
