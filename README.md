@@ -5,3 +5,4 @@ This repository documents a 30-day JavaScript challenge.
 - [Day 3: If-Else Statements](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day03.js)
 - [Day 4: Loops](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day04.js)
 - [Day 5: Loops](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day05.js)
+- [Day 6: Arrays](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day06.js)
