@@ -7,3 +7,4 @@ This repository documents a 30-day JavaScript challenge.
 - [Day 5: Loops](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day05.js)
 - [Day 6: Arrays](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day06.js)
 - [Day 7: Objects](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day07.js)
+- [Day 8: ES6+ Features](https://github.com/Khushi-S-29/30daysOfJs/blob/main/day08.js)
