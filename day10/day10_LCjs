@@ -1,0 +1,18 @@
+//1 .Counter II
+var createCounter = function(init) {
+    let num = init; 
+    const increment = () => ++num; 
+    const decrement = () => --num; 
+    const reset = () => num = init;
+
+    return { increment,  decrement, reset }
+};
+
+//2 . Apply Transform Over Each Element in Array
+var map = function(arr, fn) {
+    let result = [];
+     for (let i = 0; i < arr.length; i++) {
+         result.push(fn(arr[i], i));
+     }
+     return result;
+ };
