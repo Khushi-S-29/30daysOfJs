@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Examples</title>
+    <style>
+        .highlight {
+            border: 2px solid red;
+        }
+
+        .changeColor {
+            color: green;
+            font-weight: bold;
+        }
+
+        .bgChange {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <p id="textById">Original Text</p>
+    <p class="textByClass">Original Background Color</p>
+
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+
+    <p id="removeMe">I will be removed</p>
+
+    <img src="https://cldup.com/xFVFxOioAU.svg" alt="Old Image">
+    <p id="classToggle">Change my style</p>
+
+    <button id="changeText">Change Paragraph Text</button>
+    <div id="mouseoverElement" style="width:100px; height:100px; background-color:rgb(127, 110, 227);">
+        Hover over me
+    </div>
+
+    <script src="day09.js"></script>
+</body>
+</html>

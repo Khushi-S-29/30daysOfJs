@@ -1,5 +1,5 @@
-// 1
-// 2667. Create Hello World Function
+
+//1 : Create Hello World Function
 
 var createHelloWorld = function() {
     
@@ -9,8 +9,7 @@ var createHelloWorld = function() {
 };
 
 
-// 2
-//   2620. Counter
+//2 : Create Counter
 
 var createCounter = function(n) {
     
